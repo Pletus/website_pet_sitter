@@ -146,4 +146,12 @@ body {
 
 .parrafo {
     color: var(--oscuro);
+    text-align: center;
+
+}
+
+.icon {
+    position: relative;
+    left: 47%;
+    align-self: center;
 }
